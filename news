@@ -1,0 +1,271 @@
+United States-Headlines:
+  - https://www.cnn.com/us
+  - https://www.nbcnews.com/
+  - https://www.reuters.com/news/archive/domesticNews
+  - https://www.usatoday.com/news/
+  - https://www.npr.org/sections/news/
+  - https://www.cbsnews.com/us/
+  - https://abcnews.go.com/
+  - https://www.msn.com/en-us/news/us
+  - https://www.foxnews.com/
+  - https://timesofindia.indiatimes.com/world/us
+  - https://www.usnews.com/
+  - https://www.huffpost.com/
+  - https://www.buzzfeednews.com/
+  - https://www.washingtonpost.com/
+  - https://www.dailymail.co.uk/ushome/index.html
+  - https://www.nytimes.com/section/us
+  - https://www.politico.com/
+  - https://news.yahoo.com/us/
+  - https://nypost.com/news/
+  - https://www.newsweek.com/us
+  - https://www.washingtontimes.com/
+  - https://time.com/section/us/
+
+United States-Business:
+  - https://www.cnbc.com/us-news/
+  - https://www.usnews.com/news/business
+  - https://www.reuters.com/news/archive/businessNews
+  - https://www.wsj.com/news/business
+  - https://www.nytimes.com/section/business
+  - https://www.cnn.com/business
+  - https://www.nbcnews.com/business
+  - https://www.washingtonpost.com/business/
+  - https://www.ccn.com/business/
+  - https://business.financialpost.com/category/news
+  - https://www.ft.com/
+  - https://finance.yahoo.com/news/
+  - https://www.bbc.com/news/business
+  - https://www.bloomberg.com/
+  - https://www.forbes.com/business/#56e296c7535f
+  - https://www.marketwatch.com/latest-news?mod=side_nav
+  - https://www.businessinsider.com/
+  - https://www.cnn.com/business
+  - https://www.foxbusiness.com/
+  - https://www.investors.com/category/news/economy/
+  - https://www.cbsnews.com/moneywatch/
+  - https://www.theguardian.com/us/business
+  - https://www.wired.com/category/business/
+
+United States-Health
+  - https://health.usnews.com/
+  - https://www.cnn.com/health
+  - https://www.usatoday.com/news/health/
+  - https://www.medicalnewstoday.com/
+  - https://www.nytimes.com/section/health
+  - https://www.healthline.com/health-news
+  - https://www.webmd.com/news/default.htm
+  - https://khn.org/topics/public-health/
+  - https://www.sciencedaily.com/news/top/health/
+  - https://www.health.com/news
+  - https://www.usnews.com/news/health-news
+  - https://www.npr.org/sections/health/
+  - https://www.mobihealthnews.com/news
+  - https://www.healthline.com/health-news
+  - https://www.foxnews.com/health/
+  - https://www.nbcnews.com/health
+  - https://www.washingtonpost.com/health/?itid=nb_hp_health
+  
+United States-Sports
+  - https://www.washingtonpost.com/sports/?itid=nb_front_sports
+  - https://www.nytimes.com/section/sports
+  - https://www.espn.com/
+  - https://sports.yahoo.com/
+  - https://www.sportingnews.com/
+  - https://www.usatoday.com/sports/
+  - https://www.foxnews.com/sports
+  - https://www.nbcnews.com/news/sports/
+  - https://edition.cnn.com/sport
+  - https://www.msn.com/en-us/sports
+  - https://www.cbssports.com/
+  - https://www.skysports.com/
+  - https://www.sbnation.com/
+  - https://www.si.com/
+
+United States-Technology
+  - https://www.cnet.com/topics/tech-industry/
+  - https://www.businessinsider.com/sai
+  - https://www.usnews.com/topics/subjects/technology
+  - https://www.cnbc.com/technology/
+  - https://www.reuters.com/news/technology
+  - https://www.nytimes.com/section/technology
+  - https://www.theverge.com/tech
+  - https://www.usatoday.com/tech/
+  - https://www.cnn.com/business/tech
+  - https://www.bbc.com/news/technology
+  - https://techcrunch.com/
+  - https://www.engadget.com/
+  - https://arstechnica.com/
+  - https://mashable.com/tech/
+  - https://fortune.com/tag/term-sheet/
+  - https://www.techradar.com/
+  - https://www.vox.com/recode
+  - https://www.axios.com/technology/big-tech
+  - https://www.androidauthority.com/
+  - https://in.pcmag.com/article/news/
+  - https://www.techspot.com/
+  - https://thenextweb.com/latest/
+
+United States-Science
+  - https://www.sciencenews.org/
+  - https://www.usnews.com/science/news
+  - https://www.sciencemag.org/news/latest-news
+  - https://arstechnica.com/science/
+  - https://www.bbc.com/news/science_and_environment
+  - https://www.nbcnews.com/science
+  - https://www.npr.org/sections/science/
+  - https://www.smithsonianmag.com/smartnews/science/
+  - https://www.theguardian.com/science
+  - https://www.theverge.com/science
+  - https://www.foxnews.com/science
+  - https://www.cnn.com/specials/space-science
+  - https://www.cnbc.com/science/
+  - https://www.nytimes.com/section/science
+  - https://www.discovermagazine.com/the-sciences
+  - https://www.forbes.com/science/#257452e5738c
+  - https://www.livescience.com/news
+
+--------------------------------------------------------------------------
+
+Canada-headlines:
+  - https://www.ctvnews.ca/canada
+  - https://www.cbc.ca/news/canada
+  - https://globalnews.ca/canada/
+  - https://www.msn.com/en-ca/news/canada
+  - https://nationalpost.com/category/news/canada/
+  - https://torontosun.com/category/news/national
+  - https://www.reuters.com/news/archive/canada
+  - https://www.thestar.com/news/canada.html
+  - https://ottawacitizen.com/category/news/national/
+  - https://ca.news.yahoo.com/canada/
+  - https://www.cp24.com/news
+  - https://news.google.com/topstories?hl=en-CA&gl=CA&ceid=CA:en
+  - https://theprovince.com/category/news/national
+  - https://www.niagarafallsreview.ca/news/canada.html
+  - https://www.bbc.com/news/world/us_and_canada
+  - https://edmontonjournal.com/category/news/national/
+  - https://thecic.org/research-publications/behind-the-headlines/
+  - https://www.theglobeandmail.com/
+  - https://www.thestar.com/?redirect=true
+  - https://www.huffingtonpost.ca/
+  - https://nationalpost.com/
+  - https://financialpost.com/
+  - https://vancouversun.com/
+  - https://www.macleans.ca/
+  - https://windsorstar.com/
+  - https://www.timescolonist.com/
+  - https://www.politico.com/tag/pro-canada
+
+Canada-business:
+  - https://www.bnnbloomberg.ca/
+  - https://www.cbc.ca/news/business
+  - https://www.canadianbusiness.com/business-news/
+  - https://www.huffingtonpost.ca/business/
+  - https://financialpost.com/
+  - https://www.theglobeandmail.com/
+  - https://www.ctvnews.ca/business
+  - https://www.cbj.ca/
+  - https://www.cnbc.com/canada/
+  - https://www.capebretonpost.com/business/
+  - https://www.obj.ca/
+  - https://www.bizjournals.com/triad/
+  - https://www.newswire.ca/news-releases/
+  - https://techcrunch.com/tag/canada/
+  - https://ca.reuters.com/news/business
+  - https://ca.finance.yahoo.com/
+  - https://globalnews.ca/money/
+  - https://www.canadianinvestor.com/category/technology
+
+
+Canada-Health:
+  - https://www.cbc.ca/news/health
+  - https://globalnews.ca/tag/health-canada/
+  - https://www.huffingtonpost.ca/news/canadian-health-care/
+  - https://nationalpost.com/category/health/
+  - https://cmajnews.com/
+  - https://hospitalnews.com/
+  - https://www.cpha.ca/cpha-news
+  - https://www.ctvnews.ca/health
+  - https://www.mentalhealthcommission.ca/English/media-centre/news
+  - https://torontosun.com/tag/health
+  - https://www.newswire.ca/news-releases/health-latest-news/
+  - https://www.macleans.ca/?s=health
+  - https://www.npr.org/search?query=canada%20health&page=1
+
+Canada-Sports:
+  - https://www.cbc.ca/sports
+  - https://www.tsn.ca/
+  - https://www.sportingnews.com/ca
+  - https://www.ctvnews.ca/sports
+  - https://www.sportsnet.ca/
+  - http://www.canada.com/sports/index.html
+  - https://globalnews.ca/sports/
+  - https://ottawacitizen.com/category/sports/
+  - https://ca.sports.yahoo.com/
+  - https://canadiansportscene.com/
+  - https://torontosun.com/category/sports
+  - https://vancouversun.com/category/sports/
+  - https://edmontonsun.com/sports
+  - https://www.thestar.com/sports.html
+
+Canada-Technology:
+  - https://www.cbc.ca/search?q=tech&section=news&sortOrder=relevance
+  - https://betakit.com/
+  - https://www.itworldcanada.com/category/emerging-tech
+  - https://techcrunch.com/tag/canada/
+  - https://www.canadianbusiness.com/technology-news/
+  - https://globalnews.ca/tag/canadian-tech/
+  - https://www.newswire.ca/news-releases/consumer-technology-latest-news/
+  - https://www.theglobeandmail.com/business/technology/
+  - https://www.huffingtonpost.ca/news/technology-news/
+  - https://planetweb.ca/
+  - https://www.thestar.com/business/technology.html
+  - https://techcrunch.com/tag/toronto/
+  - https://financialpost.com/category/technology/tech-news/
+  - https://whatsyourtech.ca/
+  - https://mobilesyrup.com/
+  - https://techdaily.ca/
+  - https://globalnews.ca/tag/canadian-tech-companies/
+  - https://vancouversun.com/category/technology/
+
+Canada-Science:
+  - https://www.cbc.ca/search?q=science&section=news&sortOrder=relevance
+  - https://globalnews.ca/science/
+  - https://globalnews.ca/tag/canadian-science/
+  - https://www.canadiangeographic.ca/topic/science-technology
+  - http://sciencemediacentre.ca/site/
+  - http://www.science.ca/newsandevents.php
+  - https://www.ctvnews.ca/sci-tech
+  - https://www.theglobeandmail.com/business/technology/science/
+  - https://www.newscientist.com/article-topic/canada/
+  - https://phys.org/editorials/?gclid=Cj0KCQjw0rr4BRCtARIsAB0_48MPWbyAHT5LrUSkCU0GAM09BdWYCvOLYgQ6C-LPscBnM4WZhxMlKioaAlegEALw_wcB
+  - https://www.the-scientist.com/tag/canada
+  - https://www.sciencemag.org/tags/canada
+  - https://science.sciencemag.org/
+  - https://www.sciencenews.org/?s=canada
+  - https://www.sciencedaily.com/search/?keyword=canada#gsc.tab=0&gsc.q=canada&gsc.page=1
+  - https://www.macleans.ca/?s=science
+
+Canada-Entertainment:
+  - https://etcanada.com/
+  - https://www.cbc.ca/news/entertainment
+  - https://www.eonline.com/
+  - http://www.canada.com/entertainment/index.html
+  - https://www.ctvnews.ca/entertainment
+  - https://www.msn.com/en-ca/entertainment
+  - https://www.huffingtonpost.ca/news/canadian-entertainment/
+  - https://torontosun.com/category/entertainment
+  - https://globalnews.ca/entertainment/
+  - https://globalnews.ca/tag/canadian-entertainment/
+  - https://www.hollywoodreporter.com/
+  - https://www.thecanadianpress.com/topics/entertainment/
+  - https://nationalpost.com/category/entertainment/celebrity/
+  - https://ca.news.yahoo.com/celebrity/
+  - https://www.thestar.com/entertainment.html
+  - https://www.cp24.com/entertainment-news
+  - https://www.aol.ca/
+
+
+
+
+
